@@ -49,3 +49,10 @@ for i in range(1,n+1):
 print("sum of even is : ",sumeven)
 print("sum of odd is : ",sumodd)"""
 
+
+
+
+
+
+
+
