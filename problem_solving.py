@@ -49,10 +49,19 @@ for i in range(1,n+1):
 print("sum of even is : ",sumeven)
 print("sum of odd is : ",sumodd)"""
 
+# Write a program that uses:
+# one single-line comment
+# one multi-line comment
+# prints your name and age
 
+# This is my single line comment
 
+"""This is my multi line 
+comment"""
 
-
+"""name = input("enter your name : ")
+age = int(input("enter your age : "))
+print(f"Name : {name}\nAge : {age}")"""
 
 
 
