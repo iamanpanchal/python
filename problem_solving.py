@@ -63,5 +63,15 @@ comment"""
 age = int(input("enter your age : "))
 print(f"Name : {name}\nAge : {age}")"""
 
+# Swap two numbers using a third variable.
+
+"""x = int(input("enter first number : "))
+y = int(input("enter second number : "))
+
+print(f"X = {x}\nY = {y}")
+temp = x
+x = y 
+y = temp 
+print(f"Swap:\nX = {x}\nY = {y}")"""
 
 
