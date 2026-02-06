@@ -74,4 +74,7 @@ x = y
 y = temp 
 print(f"Swap:\nX = {x}\nY = {y}")"""
 
-
+# 9. find the sum of tow number.
+""""a= 2
+b= 3
+print("Sum : "a+b)"""
