@@ -77,4 +77,12 @@ print(f"Swap:\nX = {x}\nY = {y}")"""
 # 9. find the sum of tow number.
 """"a= 2
 b= 3
-print("Sum : "a+b)"""
+print("Sum : "a+b)"""\
+
+# Addition of two numbers using function.
+def sum(a,b):
+    return a+b
+x = int(input("enter first no. : "))
+y = int(input("enter second no. : "))
+sum = sum(x,y)
+print(f"Sum : {sum}")
