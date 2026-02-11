@@ -78,3 +78,11 @@ print(f"Swap:\nX = {x}\nY = {y}")"""
 """"a= 2
 b= 3
 print("Sum : "a+b)"""
+
+# Find the factorial of given number.
+"""n = int(input("enter a number : "))
+fact = 1
+for i in range(1,n+1):
+    fact *=i
+print(f"factorial of given numver is : {fact}")"""
+
